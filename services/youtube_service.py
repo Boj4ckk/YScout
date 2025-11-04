@@ -23,8 +23,11 @@ class YoutubeService:
             Exception: If authentication or client initialization fails.
 
         """
-        if os.getenv("SCOPES") == None:
-            raise ValueError("SCOPES environement variable is undefined.")
+        required_env = ["CLIENT_SECRET_FILE" ,"SCOPES", "API_SERVICE_NAME","API_VERSION"]
+        for var in required_env:
+            if os.getenv(var) == None:
+                raise ValueError(f"{var} environement variable is undefined.")
+    
         try:         
             flow = google_auth_oauthlib.flow.InstalledAppFlow.from_client_secrets_file(
                 os.getenv("CLIENT_SECRET_FILE"),
