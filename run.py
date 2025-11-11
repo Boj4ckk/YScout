@@ -34,6 +34,7 @@ def main():
     response = request.execute()
     print(response)
     """
+
     suggestion_list = YoutubeUtils.get_youtube_suggestions_by_keywords()
     json_service = jsonService(os.getenv("JSON_FILE_NAME"))
 
@@ -41,7 +42,7 @@ def main():
 
 
 
-#class="VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 BqKGqe Jskylb TrZEUc lw1w4b"
+
     
 
 
