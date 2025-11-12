@@ -1,0 +1,399 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "W0FXpoorqgKmRlGobYoEGPc_Jic",
+  "pageInfo": {
+    "totalResults": 10,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "TYICKhtawgv5J8BN7IGLXsry9-k",
+      "id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "snippet": {
+        "title": "IBM Technology",
+        "description": "Whether it’s AI, automation, cybersecurity, data science, DevOps, quantum computing or anything in between, we provide educational content on the biggest topics in tech. Subscribe to build your skillset, learn about new trends, and gain insights from IBM experts. \n\nThis channel follows the IBM Social Computing Guidelines.\n\n",
+        "customUrl": "@ibmtechnology",
+        "publishedAt": "2008-05-27T21:31:11Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/7qCmNHAsFvD6RSINuJ1WoGZYoKmm7TDnhORKFqLb8QoeOFh2qFXal8brkzoxNrwqmJTuvOLs=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/7qCmNHAsFvD6RSINuJ1WoGZYoKmm7TDnhORKFqLb8QoeOFh2qFXal8brkzoxNrwqmJTuvOLs=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/7qCmNHAsFvD6RSINuJ1WoGZYoKmm7TDnhORKFqLb8QoeOFh2qFXal8brkzoxNrwqmJTuvOLs=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "IBM Technology",
+          "description": "Whether it’s AI, automation, cybersecurity, data science, DevOps, quantum computing or anything in between, we provide educational content on the biggest topics in tech. Subscribe to build your skillset, learn about new trends, and gain insights from IBM experts. \n\nThis channel follows the IBM Social Computing Guidelines.\n\n"
+        },
+        "country": "US"
+      },
+      "statistics": {
+        "viewCount": "96026342",
+        "subscriberCount": "1450000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1455"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "hWRVfeTpg7cC3pcxiC8PVf6MrwU",
+      "id": "UCHoBKQDRkJcOY2BO47q5Ruw",
+      "snippet": {
+        "title": "MicroConf",
+        "description": "Welcome to MicroConf - Where Independent SaaS Founders Launch, Meet, Learn, and Grow! MicroConf is the world’s most trusted community for bootstrapped SaaS founders. \n\nMicroConf is a community of SaaS founders that brings together bootstrapped and independently-funded B2B SaaS companies who are not looking to chase “unicorn status'' or venture capital.\n\nWe provide SaaS training, education and networking opportunities for other founders who are pre-product, focused on scaling their business, and looking for an exit strategy.\n\nMicroConf began almost a decade ago. Since then, we’ve hosted 19 events with nearly 200 speakers, helped thousands of attendees, and impacted tens of thousands more through our videos and online community. \n\nReady to take your SaaS startup to the next level? Check these out: \n\nIn Person Events: https://microconf.com/upcoming-events\nDigital Events: https://microconfremote.com\nMastermind Matching: https://microconf.com/masterminds\n",
+        "customUrl": "@microconf",
+        "publishedAt": "2019-11-01T18:10:17.885417Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lV4XrepgWyhyeGlgXZ6UlMHlhXhpfo3Y0476JimI1-Ro8=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lV4XrepgWyhyeGlgXZ6UlMHlhXhpfo3Y0476JimI1-Ro8=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lV4XrepgWyhyeGlgXZ6UlMHlhXhpfo3Y0476JimI1-Ro8=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "MicroConf",
+          "description": "Welcome to MicroConf - Where Independent SaaS Founders Launch, Meet, Learn, and Grow! MicroConf is the world’s most trusted community for bootstrapped SaaS founders. \n\nMicroConf is a community of SaaS founders that brings together bootstrapped and independently-funded B2B SaaS companies who are not looking to chase “unicorn status'' or venture capital.\n\nWe provide SaaS training, education and networking opportunities for other founders who are pre-product, focused on scaling their business, and looking for an exit strategy.\n\nMicroConf began almost a decade ago. Since then, we’ve hosted 19 events with nearly 200 speakers, helped thousands of attendees, and impacted tens of thousands more through our videos and online community. \n\nReady to take your SaaS startup to the next level? Check these out: \n\nIn Person Events: https://microconf.com/upcoming-events\nDigital Events: https://microconfremote.com\nMastermind Matching: https://microconf.com/masterminds\n"
+        },
+        "country": "US"
+      },
+      "statistics": {
+        "viewCount": "5936274",
+        "subscriberCount": "110000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "531"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "To2a_bBSDqpvAxKHVboWKdDqy3k",
+      "id": "UChCEjJQ72UQC6w423-o9omw",
+      "snippet": {
+        "title": "Guillaume Moubeche",
+        "description": "👋 Hey, I’m G., and I’m living two lives:\n\n🤖 By Day:\n\nI’m a tech entrepreneur who:\n\n- Built two companies: one sold at $600k ARR, the other valued at $150M+\n- Wrote a best-selling book The $150M Secret\n- Invests millions of dollars in ambitious projects\n- Has been featured in 200+ media\n\n🚴🏻 By Passion:\n\n- I fell in love with ultra-endurance sports and self-development\n- In 2024, I raced my first Ironman and have been unable to stop ever since\n- I’m now training for the Ironman World Championship and sharing my journey 🔥\n\nI’m here to prove that a strong body fuels a stronger mind — because greatness needs both.\n\nWhat you'll get by following me:\n\n- Training inspiration\n- Transparent, no fluff story about my Ironman prep\n- Insights on how to become the best version of yourself\n\nAre you also on your self-development journey and ready to push your limits? Hit the “Subscribe\" button \n\nPeace, love & endurance, ✌️\n\nG.\n",
+        "customUrl": "@guillaumemoubeche",
+        "publishedAt": "2017-12-27T21:12:54Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/4fCavdnFDURuKRyNgqPXvUFL8vYfRhMPasTHjptN3qK8tSnPVFMfbeVcu1EfsPki01kXE0Fr=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/4fCavdnFDURuKRyNgqPXvUFL8vYfRhMPasTHjptN3qK8tSnPVFMfbeVcu1EfsPki01kXE0Fr=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/4fCavdnFDURuKRyNgqPXvUFL8vYfRhMPasTHjptN3qK8tSnPVFMfbeVcu1EfsPki01kXE0Fr=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Guillaume Moubeche",
+          "description": "👋 Hey, I’m G., and I’m living two lives:\n\n🤖 By Day:\n\nI’m a tech entrepreneur who:\n\n- Built two companies: one sold at $600k ARR, the other valued at $150M+\n- Wrote a best-selling book The $150M Secret\n- Invests millions of dollars in ambitious projects\n- Has been featured in 200+ media\n\n🚴🏻 By Passion:\n\n- I fell in love with ultra-endurance sports and self-development\n- In 2024, I raced my first Ironman and have been unable to stop ever since\n- I’m now training for the Ironman World Championship and sharing my journey 🔥\n\nI’m here to prove that a strong body fuels a stronger mind — because greatness needs both.\n\nWhat you'll get by following me:\n\n- Training inspiration\n- Transparent, no fluff story about my Ironman prep\n- Insights on how to become the best version of yourself\n\nAre you also on your self-development journey and ready to push your limits? Hit the “Subscribe\" button \n\nPeace, love & endurance, ✌️\n\nG.\n"
+        },
+        "country": "US"
+      },
+      "statistics": {
+        "viewCount": "2993076",
+        "subscriberCount": "46300",
+        "hiddenSubscriberCount": false,
+        "videoCount": "501"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "yCdS76RirfDvKiZ3VpRNZwiYiBY",
+      "id": "UCFVteOob_YXJHPaGTqlDV2Q",
+      "snippet": {
+        "title": "CodeHead",
+        "description": "I make tech rants apparently\n¯\\_(ツ)_/¯\n",
+        "customUrl": "@codehead01",
+        "publishedAt": "2025-03-02T01:01:51.713747Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Hkx2BZc71IV_M9wosWj-lS-8fHSAcPpLaDkfZHvDnn1yULUAqQSCPXyyG1Ul3rGTypc5-mv-iA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Hkx2BZc71IV_M9wosWj-lS-8fHSAcPpLaDkfZHvDnn1yULUAqQSCPXyyG1Ul3rGTypc5-mv-iA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Hkx2BZc71IV_M9wosWj-lS-8fHSAcPpLaDkfZHvDnn1yULUAqQSCPXyyG1Ul3rGTypc5-mv-iA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "CodeHead",
+          "description": "I make tech rants apparently\n¯\\_(ツ)_/¯\n"
+        },
+        "country": "US"
+      },
+      "statistics": {
+        "viewCount": "3677305",
+        "subscriberCount": "50200",
+        "hiddenSubscriberCount": false,
+        "videoCount": "108"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "4tIFVdYAXyYPlwjufy4720-awAQ",
+      "id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+      "snippet": {
+        "title": "Dan Martell",
+        "description": "My #1 passion is teaching.\n\n#2 is building AI businesses.\n\nI’ve built and exited 3x tech companies.\n\nInvested in 100+ others.\n\nSpend 98.2% of my time building AI startups at Martell Ventures (AI Venture Studio)\n\nWrote a WSJ best selling book https://www.BuyBackYourTime.com\n\nPlay life full out (wake surfing, snowboarding, mountain biking) at the highest level…\n\n… and I love people and travelling the world with my family training and speaking on the biggest stages.\n\nOh, and did all that after ending up in jail and rehab at 17 years old.\n\nIt’s been a journey to say the least. \n",
+        "customUrl": "@danmartell",
+        "publishedAt": "2011-10-08T05:11:03Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/0EEjg1FatDs8_2tFmzmGEP6dRlQygfqN6uCV17iwl-AymS0OSdWrtDeKq8ZIMZeTWRJO_cTT=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/0EEjg1FatDs8_2tFmzmGEP6dRlQygfqN6uCV17iwl-AymS0OSdWrtDeKq8ZIMZeTWRJO_cTT=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/0EEjg1FatDs8_2tFmzmGEP6dRlQygfqN6uCV17iwl-AymS0OSdWrtDeKq8ZIMZeTWRJO_cTT=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Dan Martell",
+          "description": "My #1 passion is teaching.\n\n#2 is building AI businesses.\n\nI’ve built and exited 3x tech companies.\n\nInvested in 100+ others.\n\nSpend 98.2% of my time building AI startups at Martell Ventures (AI Venture Studio)\n\nWrote a WSJ best selling book https://www.BuyBackYourTime.com\n\nPlay life full out (wake surfing, snowboarding, mountain biking) at the highest level…\n\n… and I love people and travelling the world with my family training and speaking on the biggest stages.\n\nOh, and did all that after ending up in jail and rehab at 17 years old.\n\nIt’s been a journey to say the least. \n"
+        },
+        "country": "CA"
+      },
+      "statistics": {
+        "viewCount": "245880660",
+        "subscriberCount": "2130000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "2647"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "6HC1HFW85JWAnLP2lIGSE6Gxk5U",
+      "id": "UCjDh68PCipRODti2UnecbeQ",
+      "snippet": {
+        "title": "Kylian Khalifa",
+        "description": "Je ne sers plus à rien dans ma boîte principale :) \n\nJ'ai donc lancé un SaaS pour tuer l'ennui, et je documente tout ici jusqu'à l'exit $. \n\ntaap.it, les liens magiques qui mènent directement vers les apps mobiles\n\nPour simplement discuter avec moi, envoyez-moi un message sur mon Instagram (kylian khalifa).\n",
+        "customUrl": "@kyliankhalifa",
+        "publishedAt": "2022-12-22T10:28:21.384139Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/xz_MOq8FyLdJnBF3c1avrhWrzhjmYjiAa7zVzkiq_K1dAINLMFOqc-EhQdI8ZLOKYsTuY8iX=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/xz_MOq8FyLdJnBF3c1avrhWrzhjmYjiAa7zVzkiq_K1dAINLMFOqc-EhQdI8ZLOKYsTuY8iX=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/xz_MOq8FyLdJnBF3c1avrhWrzhjmYjiAa7zVzkiq_K1dAINLMFOqc-EhQdI8ZLOKYsTuY8iX=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Kylian Khalifa",
+          "description": "Je ne sers plus à rien dans ma boîte principale :) \n\nJ'ai donc lancé un SaaS pour tuer l'ennui, et je documente tout ici jusqu'à l'exit $. \n\ntaap.it, les liens magiques qui mènent directement vers les apps mobiles\n\nPour simplement discuter avec moi, envoyez-moi un message sur mon Instagram (kylian khalifa).\n"
+        },
+        "country": "US"
+      },
+      "statistics": {
+        "viewCount": "513395",
+        "subscriberCount": "5710",
+        "hiddenSubscriberCount": false,
+        "videoCount": "75"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "lwv9tXS93t7VgtKHUr-YrqzXp-4",
+      "id": "UCvZWnj7c9FfsFeV_9TM0DwQ",
+      "snippet": {
+        "title": "Nikolas Rowlan",
+        "description": "My name is Nik. You can expect everything business, personal finance, and fitness.\n\n📍 Chicago \n\nJoin my discord:\nhttps://discord.gg/CChNQ8YZ3m",
+        "customUrl": "@nikrowlan",
+        "publishedAt": "2018-06-27T03:40:47Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Z22UBKpdItKWQuPfHn5-NYbwBapij1os7gKnOhTvb2bFDsS8JCY9F-lmSRMLADkcmiYT3Szj=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Z22UBKpdItKWQuPfHn5-NYbwBapij1os7gKnOhTvb2bFDsS8JCY9F-lmSRMLADkcmiYT3Szj=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Z22UBKpdItKWQuPfHn5-NYbwBapij1os7gKnOhTvb2bFDsS8JCY9F-lmSRMLADkcmiYT3Szj=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Nikolas Rowlan",
+          "description": "My name is Nik. You can expect everything business, personal finance, and fitness.\n\n📍 Chicago \n\nJoin my discord:\nhttps://discord.gg/CChNQ8YZ3m"
+        },
+        "country": "US"
+      },
+      "statistics": {
+        "viewCount": "399486",
+        "subscriberCount": "3850",
+        "hiddenSubscriberCount": false,
+        "videoCount": "23"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "oEi98Z-0lgdCB0ZvnZri2P21lc0",
+      "id": "UC7geKfz2-IH0rsgRBtHTm0g",
+      "snippet": {
+        "title": "Learn With Shopify",
+        "description": "We empower aspiring and current entrepreneurs worldwide by simplifying the often-complex world of online business. If you're ready to cut through the noise and get actionable, up-to-date strategies for launching and scaling your ecommerce venture, you've come to the right place.\n\nLearn business ideas, trending products, starting specific businesses, AI-powered marketing, AI tools, finance, operations, branding, and growth strategies, all taught through in-depth long format videos and engaging YouTube Shorts.\n\nJust like successful entrepreneurs prioritize continuous learning, we're here to be your trusted partner in navigating the ever-evolving ecommerce ecosystem. Subscribe to Learn with Shopify and let's build your thriving online business together in 2025!\n\n#Shopify #LearnWithShopify #ecommerce #OnlineBusiness #StartAnOnlineStore #ShopifyTips #AIToolsForBusiness #ShortsForBusiness #DigitalMarketing #Entrepreneurship #SmallBusinessTips \n",
+        "customUrl": "@learnwithshopify",
+        "publishedAt": "2020-04-17T20:22:36.840263Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/U4Q-rEnL8QwLkbjt8HObVeT7W2X6lVe8X1r65k3JZri6uA0GPkxCPyoCBifjk3ByFD_audMFbmw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/U4Q-rEnL8QwLkbjt8HObVeT7W2X6lVe8X1r65k3JZri6uA0GPkxCPyoCBifjk3ByFD_audMFbmw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/U4Q-rEnL8QwLkbjt8HObVeT7W2X6lVe8X1r65k3JZri6uA0GPkxCPyoCBifjk3ByFD_audMFbmw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Learn With Shopify",
+          "description": "We empower aspiring and current entrepreneurs worldwide by simplifying the often-complex world of online business. If you're ready to cut through the noise and get actionable, up-to-date strategies for launching and scaling your ecommerce venture, you've come to the right place.\n\nLearn business ideas, trending products, starting specific businesses, AI-powered marketing, AI tools, finance, operations, branding, and growth strategies, all taught through in-depth long format videos and engaging YouTube Shorts.\n\nJust like successful entrepreneurs prioritize continuous learning, we're here to be your trusted partner in navigating the ever-evolving ecommerce ecosystem. Subscribe to Learn with Shopify and let's build your thriving online business together in 2025!\n\n#Shopify #LearnWithShopify #ecommerce #OnlineBusiness #StartAnOnlineStore #ShopifyTips #AIToolsForBusiness #ShortsForBusiness #DigitalMarketing #Entrepreneurship #SmallBusinessTips \n"
+        },
+        "country": "CA"
+      },
+      "statistics": {
+        "viewCount": "59639014",
+        "subscriberCount": "823000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1290"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "mk8gE1bJc6-xmZ7gGtRJ-DIH_ws",
+      "id": "UCh6wT1M9abL0wiJz4eZTwdw",
+      "snippet": {
+        "title": "Moritz | AI Builder",
+        "description": "Learn how to build and grow software with AI.\n\nI’m Moritz — I’ve spent over 10 years in tech with a background in product management. A few years ago, I quit my job to start my own business, and since then I’ve been building software powered by AI.\n\nSo far, I’ve launched multiple AI SaaS products, including:\n- CopyCoder — an AI tool for designing UI (crossed $100K in revenue)\n- Vireel — an AI video ad generator for businesses\nI've also built a community to teach beginners how to build software with AI.\n\nOn this channel, you’ll find:\n- How to build SaaS in the new age of AI\n- Tutorials and experiments from my own products\n- My personal journey of quitting my job and building businesses with AI\n\nMy goal is to make building software with AI easier and more accessible — and show what’s possible in this new era. Thanks for being here!\n",
+        "customUrl": "@promptwarrior",
+        "publishedAt": "2024-09-30T08:59:17.36901Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/gQQPRKBlf9gQV6QYAbRRQmI963ODiDLZrul9tEwxHXaYVffUytlV2WLsWPcDmGNDJv0zJHew4A=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/gQQPRKBlf9gQV6QYAbRRQmI963ODiDLZrul9tEwxHXaYVffUytlV2WLsWPcDmGNDJv0zJHew4A=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/gQQPRKBlf9gQV6QYAbRRQmI963ODiDLZrul9tEwxHXaYVffUytlV2WLsWPcDmGNDJv0zJHew4A=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Moritz | AI Builder",
+          "description": "Learn how to build and grow software with AI.\n\nI’m Moritz — I’ve spent over 10 years in tech with a background in product management. A few years ago, I quit my job to start my own business, and since then I’ve been building software powered by AI.\n\nSo far, I’ve launched multiple AI SaaS products, including:\n- CopyCoder — an AI tool for designing UI (crossed $100K in revenue)\n- Vireel — an AI video ad generator for businesses\nI've also built a community to teach beginners how to build software with AI.\n\nOn this channel, you’ll find:\n- How to build SaaS in the new age of AI\n- Tutorials and experiments from my own products\n- My personal journey of quitting my job and building businesses with AI\n\nMy goal is to make building software with AI easier and more accessible — and show what’s possible in this new era. Thanks for being here!\n"
+        }
+      },
+      "statistics": {
+        "viewCount": "2235395",
+        "subscriberCount": "18400",
+        "hiddenSubscriberCount": false,
+        "videoCount": "160"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "WPgORz1oBUucqnLnoQBkklZnjJ8",
+      "id": "UCb4wtkIiqsBFvSkA73iBVhQ",
+      "snippet": {
+        "title": "Le Dev ULTIME",
+        "description": "Tout ce qu'il te faut pour apprendre à lancer tes projets !\n\n👨‍💻 Moi c'est Le Dev ULTIME, je suis développeur et entrepreneur depuis 2013\n📍J'habite actuellement à Taipei, Taïwan en Asie\n🧪 En 10 ans j'ai appris, expérimenté et vécu plein de choses\n🚀 J'ai créé plusieurs SaaS et micro-SaaS (des logiciels en ligne)\n\nSur cette chaîne, je vais t'apprendre tout ce que je sais pour te lancer.\nMarketing, Juridique, Développement web, Startup...\n\nJe vais tout te dire !\n",
+        "customUrl": "@ledevultime",
+        "publishedAt": "2020-07-04T01:59:35.616354Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ApBV9Mtpm0bgV2xk9dWNVZ2Yh8987uJFlnzu7eHEUT41fG6JtZcCiCLqbcMfcAHX87hEA51y2vo=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ApBV9Mtpm0bgV2xk9dWNVZ2Yh8987uJFlnzu7eHEUT41fG6JtZcCiCLqbcMfcAHX87hEA51y2vo=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ApBV9Mtpm0bgV2xk9dWNVZ2Yh8987uJFlnzu7eHEUT41fG6JtZcCiCLqbcMfcAHX87hEA51y2vo=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Le Dev ULTIME",
+          "description": "Tout ce qu'il te faut pour apprendre à lancer tes projets !\n\n👨‍💻 Moi c'est Le Dev ULTIME, je suis développeur et entrepreneur depuis 2013\n📍J'habite actuellement à Taipei, Taïwan en Asie\n🧪 En 10 ans j'ai appris, expérimenté et vécu plein de choses\n🚀 J'ai créé plusieurs SaaS et micro-SaaS (des logiciels en ligne)\n\nSur cette chaîne, je vais t'apprendre tout ce que je sais pour te lancer.\nMarketing, Juridique, Développement web, Startup...\n\nJe vais tout te dire !\n"
+        },
+        "country": "FR"
+      },
+      "statistics": {
+        "viewCount": "190593",
+        "subscriberCount": "8010",
+        "hiddenSubscriberCount": false,
+        "videoCount": "50"
+      }
+    }
+  ]
+}
