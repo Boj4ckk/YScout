@@ -1,0 +1,342 @@
+[
+  {
+    "kind": "youtube#searchResult",
+    "etag": "9syvaVumSta1B_c7dbXzeSusVv4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "UEHdYNXiIUU"
+    },
+    "snippet": {
+      "publishedAt": "2023-01-30T14:16:20Z",
+      "channelId": "UCA-mWX9CvCTVFWRMb9bKc9w",
+      "title": "What Is SaaS? (Explained in 5 Minutes)",
+      "description": "How to Build a Business You Don't Grow to Hate: ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UEHdYNXiIUU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UEHdYNXiIUU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UEHdYNXiIUU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Dan Martell",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-01-30T14:16:20Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "H-MyGdf4V6jXRpHuEuSZYOyihWg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "aV_yI1oV5vU"
+    },
+    "snippet": {
+      "publishedAt": "2024-10-06T15:02:13Z",
+      "channelId": "UCh6wT1M9abL0wiJz4eZTwdw",
+      "title": "How to build SaaS applications with AI (no coding)",
+      "description": "Join my community to build your first $10k AI Startup: www.skool.com/promptwarrior Or search “Prompt Warrior Skool” #cursor #ai ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aV_yI1oV5vU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aV_yI1oV5vU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aV_yI1oV5vU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Moritz | AI Builder",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-10-06T15:02:13Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "tIPFIzdtZfmNAQ54FY3XTomk9hY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "4ysTEia8Mys"
+    },
+    "snippet": {
+      "publishedAt": "2024-05-30T16:46:41Z",
+      "channelId": "UCb4wtkIiqsBFvSkA73iBVhQ",
+      "title": "J&#39;ai lancé 6 micro SaaS, combien j&#39;ai gagné ?",
+      "description": "J'ai créé et lancé plusieurs SaaS dont 6 micro SaaS, et dans cette vidéo je vais tout te dire ! On voit souvent des réussites sur les ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4ysTEia8Mys/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4ysTEia8Mys/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4ysTEia8Mys/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Le Dev ULTIME",
+      "liveBroadcastContent": "none",
+      "publishTime": "2024-05-30T16:46:41Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "qtcLFl49UQKTu7geCg6eLTHxXEs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "_g_bUR1uehI"
+    },
+    "snippet": {
+      "publishedAt": "2023-10-12T16:12:17Z",
+      "channelId": "UChCEjJQ72UQC6w423-o9omw",
+      "title": "Why SaaS is the best business model",
+      "description": "entrepreneur #saas #motivation #business #tips #success.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_g_bUR1uehI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_g_bUR1uehI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_g_bUR1uehI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Guillaume Moubeche",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-10-12T16:12:17Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "f_RzInpuzrGontm8sfcmS-2r8gs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "20QUNgFIrK0"
+    },
+    "snippet": {
+      "publishedAt": "2021-04-02T15:09:31Z",
+      "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "title": "Software as a Service (SaaS) Explained in 5 mins",
+      "description": "One of the most popular forms of cloud computing is Software as a Service, or SaaS, and is often used on a daily basis by ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/20QUNgFIrK0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/20QUNgFIrK0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/20QUNgFIrK0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "IBM Technology",
+      "liveBroadcastContent": "none",
+      "publishTime": "2021-04-02T15:09:31Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "qinyXfjHqtS-DQlpwwXwvsqlmms",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "SddMq2nKsUA"
+    },
+    "snippet": {
+      "publishedAt": "2025-01-06T17:30:06Z",
+      "channelId": "UC7geKfz2-IH0rsgRBtHTm0g",
+      "title": "How To Start a SaaS Company in 2025",
+      "description": "How To Launch A SaaS From Scratch (Essential Steps). ▻ Shopify Free Trial https://utm.io/uhT8T ▻ Explore Shopify Community ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SddMq2nKsUA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SddMq2nKsUA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SddMq2nKsUA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Learn With Shopify",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-01-06T17:30:06Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "is7_uSj9yATOQPehKMNhVlbcT5o",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "c3G15kapUC8"
+    },
+    "snippet": {
+      "publishedAt": "2025-05-07T16:25:10Z",
+      "channelId": "UCFVteOob_YXJHPaGTqlDV2Q",
+      "title": "The ABSURD Reality of SaaS",
+      "description": "Try out Scrimba for 20% OFF Today and Make The Video YOUR IDE: https://scrimba.com/?via=codehead Want to actually level up ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c3G15kapUC8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c3G15kapUC8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c3G15kapUC8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "CodeHead",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-05-07T16:25:10Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "hD3DWHkZVXyCsJrf-NcXTJeJ2_k",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Q15paKSGIS8"
+    },
+    "snippet": {
+      "publishedAt": "2025-04-27T16:00:40Z",
+      "channelId": "UCHoBKQDRkJcOY2BO47q5Ruw",
+      "title": "99% of Beginners Don’t Know the Basics of SaaS",
+      "description": "Want to know the real truth about SaaS? In this video I cover 5 critical SaaS fundamentals that can help you grow 7-figure ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q15paKSGIS8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q15paKSGIS8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q15paKSGIS8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "MicroConf",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-04-27T16:00:40Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "GBvfcyXWs-U2R0wPE14cxKRXyCg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "B9avdE40DZk"
+    },
+    "snippet": {
+      "publishedAt": "2023-07-07T17:35:57Z",
+      "channelId": "UCvZWnj7c9FfsFeV_9TM0DwQ",
+      "title": "MICRO SAAS IDEAS #saas",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/B9avdE40DZk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/B9avdE40DZk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/B9avdE40DZk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Nikolas Rowlan",
+      "liveBroadcastContent": "none",
+      "publishTime": "2023-07-07T17:35:57Z"
+    }
+  },
+  {
+    "kind": "youtube#searchResult",
+    "etag": "rv2JyAh3z-oTHi7lGUzwmSmA6Zg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "IHr-6Q7HAdk"
+    },
+    "snippet": {
+      "publishedAt": "2025-08-23T13:00:28Z",
+      "channelId": "UCjDh68PCipRODti2UnecbeQ",
+      "title": "On t’a menti : la VÉRITÉ sur le SaaS en 2025",
+      "description": "J'ai créé https://taap.it un logiciel déjà utilisé par des dizaines de milliers de personnes dont Hugo Décrypte, Seb la Frite, Prime, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IHr-6Q7HAdk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IHr-6Q7HAdk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IHr-6Q7HAdk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Kylian Khalifa",
+      "liveBroadcastContent": "none",
+      "publishTime": "2025-08-23T13:00:28Z"
+    }
+  }
+]
