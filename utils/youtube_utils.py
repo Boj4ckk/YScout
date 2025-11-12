@@ -26,7 +26,6 @@ class YoutubeUtils:
             "q" : keyword,
     
         }
-
         headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Accept-Language": f"{lang}-{country},{lang};q=0.9",
@@ -34,8 +33,6 @@ class YoutubeUtils:
         "Pragma": "no-cache",
         "DNT": "1"
         }
-
-       
 
         response = requests.get(os.getenv("YOUTUBE_SUGGESTION_URL"), params=params,headers=headers, proxies=use_proxy)
         response.raise_for_status()
