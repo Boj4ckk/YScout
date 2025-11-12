@@ -10,6 +10,7 @@ import random
 import string
 import time
 import requests
+from services.json_service import jsonService
 
 
 class YoutubeUtils:
@@ -52,6 +53,24 @@ class YoutubeUtils:
             suggestions_list[YoutubeUtils.get_youtube_suggestions_list(keyword)[0]].pop(0)
 
         return suggestions_list
+    
+    @staticmethod
+    def extract_channels_id_in_response(json_file):
+        channels_id_list = []
+        j_service = jsonService(json_file)
+        data = j_service.read()
+
+        for item in data:
+            item_channel_id = item["snippet"]["channelId"]
+            channels_id_list.append(item_channel_id)
+        return channels_id_list
+        
+
+
+
+
+
+
     
     
        
