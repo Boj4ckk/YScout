@@ -43,6 +43,23 @@ class YoutubeService:
             # In case where the initalization fail.
             print(f"Error while initating Youtube service :{e}")
 
+    def search_by_keyword(self,keyword,max_result=1,part="snippet"):
+        request = self.youtube_client.search().list(
+            part=part,
+            maxResults=max_result,
+            q=keyword
+        )
 
+        response = request.execute()
+        return response
+    
+    def get_channels_data_by_ids(self,channels_id_query):
+        request = self.youtube_client.channels().list(
+            part="snippet,statistics",
+            id=channels_id_query
+        )
+
+        response = request.execute()
+        return response
 
 
