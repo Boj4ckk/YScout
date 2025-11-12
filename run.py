@@ -35,10 +35,13 @@ def main():
     print(response)
     """
 
-    suggestion_list = YoutubeUtils.get_youtube_suggestions_by_keywords()
-    json_service = jsonService(os.getenv("JSON_FILE_NAME"))
+    ids = ",".join(YoutubeUtils.extract_channels_id_in_response("search_by_keyword_response.json"))
+    y_service  = YoutubeService()
+    response = y_service.get_channels_data_by_ids(ids)
+    j_service = jsonService("channels_response.json")
+    j_service.write(response,"a+")
 
-    json_service.write(suggestion_list)
+
 
 
 
