@@ -54,6 +54,7 @@ class YoutubeUtils:
 
         return suggestions_list
     
+    
     @staticmethod
     def extract_channels_id_in_response(json_file):
         channels_id_list = []
