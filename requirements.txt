@@ -3,7 +3,7 @@ google-auth==2.41.1
 google-auth-oauthlib==1.2.3
 dotenv==0.9.9
 pytest==8.4.2
-
+supabase==2.24.0
 
 
 
