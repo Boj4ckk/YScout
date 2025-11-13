@@ -18,7 +18,7 @@ from services.json_service import jsonService
 
 from buisness.suggestion_buisness import SuggestionBuisness
 
-from buisness.cartography import CartographyAlgorithme
+from buisness.cartography import CartographyAlgorithm
 
 
 
@@ -41,7 +41,7 @@ def main():
     s_b.get_youtube_suggestions_by_keywords()
     y_service = YoutubeService()
     j_service = jsonService("youtube_suggestions_list.json")
-    c_a = CartographyAlgorithme("data/youtube_suggestions_list.json",y_service,j_service)
+    c_a = CartographyAlgorithm("data/youtube_suggestions_list.json",y_service,j_service)
     c_a.deep_search()
 
 
