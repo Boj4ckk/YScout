@@ -11,11 +11,14 @@ from dotenv import load_dotenv
 
 
 from services.youtube_service import YoutubeService
-from utils.youtube_utils import YoutubeUtils
+
 
 from services.json_service import jsonService
 
 
+from buisness.suggestion_buisness import SuggestionBuisness
+
+from buisness.cartography import CartographyAlgorithme
 
 
 
@@ -34,13 +37,16 @@ def main():
     response = request.execute()
     print(response)
     """
+    s_b = SuggestionBuisness()
+    s_b.get_youtube_suggestions_by_keywords()
+    y_service = YoutubeService()
+    j_service = jsonService("youtube_suggestions_list.json")
+    c_a = CartographyAlgorithme("data/youtube_suggestions_list.json",y_service,j_service)
+    c_a.deep_search()
 
-    ids = ",".join(YoutubeUtils.extract_channels_id_in_response("search_by_keyword_response.json"))
-    y_service  = YoutubeService()
-    response = y_service.get_channels_data_by_ids(ids)
-    j_service = jsonService("channels_response.json")
-    j_service.write(response,"a+")
 
+
+   
 
 
 
