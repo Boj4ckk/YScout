@@ -3,7 +3,7 @@ from services.json_service import jsonService
 from services.youtube_service import YoutubeService
 from utils.cartography_utils import CartographyUtils
 
-class CartographyAlgorithme:
+class CartographyAlgorithm:
     def __init__ (self,suggestion_file,youtube_service: YoutubeService, json_service:jsonService ):
         self.suggestion_file = suggestion_file
         self.youtube_service = youtube_service
