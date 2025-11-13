@@ -20,7 +20,7 @@ class CartographyUtils:
     def extract_channels_id_in_response(response):
       
         channels_id_list = []
-        # response doit être un dict, on accède à la clé 'items'
+        
         for item in response.get("items", []):
             item_channel_id = item["snippet"]["channelId"]
             channels_id_list.append(item_channel_id)
